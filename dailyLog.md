@@ -1,16 +1,66 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: August 8th 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added CSS to my HTML file. Worked with different colors.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really need to learn how to make a container work. That is the key to making my site look how I want it to look. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** https://codepen.io/TeaSama/pen/oeZQGa
+
+**Biggest Unanswered Question:** How do I get a container to work how I want it to? 
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
 
 **Biggest Unanswered Question:**
 
-### Day : 
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
 
 **Today's Progress**:
 

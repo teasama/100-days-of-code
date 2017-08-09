@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I (TeaSama) will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
 August 8th 2017
@@ -11,7 +11,7 @@ August 8th 2017
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I am new to coding so I'm going to power through freecodecamp.org
+5. I am new to coding so I'm going to power through freecodecamp.org while at the same time playing around on codepen.
 
 
 ## Ideas to make this challenge more effective

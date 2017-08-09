@@ -6,9 +6,11 @@
 
 **Thoughts:** I really need to learn how to make a container work. That is the key to making my site look how I want it to look. 
 
-**Link(s) to work:** https://codepen.io/TeaSama/pen/oeZQGa
+**Link(s) to work:** 
+  (live) https://codepen.io/TeaSama/pen/oeZQGa
+  (Progress with code) https://www.sololearn.com/Profile/5247204
 
-**Biggest Unanswered Question:** How do I get a container to work how I want it to? 
+**Biggest Unanswered Question:** How do I get a container to work how I want it to? ie How do I want everything to look?
 
 ### Day :
 

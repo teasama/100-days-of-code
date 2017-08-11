@@ -12,27 +12,27 @@
 
 **Biggest Unanswered Question:** How do I get a container to work how I want it to? ie How do I want everything to look?
 
-### Day :
+### Day 2: August 9th
 
-**Today's Progress**:
+**Today's Progress**: Worked offline learning what I could about CSS3
 
-**Thoughts:**
+**Thoughts:** I need more offline resources in case this happens again.
 
-**Link(s) to work:**
+**Link(s) to work:** NA
 
-**Biggest Unanswered Question:**
+**Biggest Unanswered Question:** Why is my internet not working!?
 
-### Day :
+### Day 3: August 10th 
 
-**Today's Progress**:
+**Today's Progress**: Powered through the CSS lessons on SoloLearn and completed it
 
-**Thoughts:**
+**Thoughts:** I want to know more than what SoloLearn has to offer. I didn't expect to like CSS this much.
 
-**Link(s) to work:**
+**Link(s) to work:** NA
 
-**Biggest Unanswered Question:**
+**Biggest Unanswered Question:** How can I study offline effectively when things like this happen/ I need better refrences to work on my own code.
 
-### Day :
+### Day 4: August 11th
 
 **Today's Progress**:
 

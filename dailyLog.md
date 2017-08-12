@@ -7,8 +7,8 @@
 **Thoughts:** I really need to learn how to make a container work. That is the key to making my site look how I want it to look. 
 
 **Link(s) to work:** 
-  (live) https://codepen.io/TeaSama/pen/oeZQGa
-  (Progress with code) https://www.sololearn.com/Profile/5247204
+   https://codepen.io/TeaSama/pen/oeZQGa
+   https://www.sololearn.com/Profile/5247204
 
 **Biggest Unanswered Question:** How do I get a container to work how I want it to? ie How do I want everything to look?
 
@@ -33,6 +33,99 @@
 **Biggest Unanswered Question:** How can I study offline effectively when things like this happen/ I need better refrences to work on my own code.
 
 ### Day 4: August 11th
+
+**Today's Progress**: I'm getting the hang of making my own grids using CSS. Trying to use only long hang in order to improve my retention. 
+
+**Thoughts:** Pretty simple once you get the hang of it. Still need to figure out the scroll bars on different browsers.
+
+**Link(s) to work:**
+https://codepen.io/TeaSama/pen/oeZQGa
+https://www.sololearn.com/Profile/5247204
+
+
+**Biggest Unanswered Question:** What else can I do with just CSS alone?!
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
 
 **Today's Progress**:
 

@@ -45,13 +45,14 @@ https://www.sololearn.com/Profile/5247204
 
 **Biggest Unanswered Question:** What else can I do with just CSS alone?!
 
-### Day :
+### Day 5: August 12
 
-**Today's Progress**:
+**Today's Progress**: Changed my icons around. Made a profile using bootstrap on codepen.
 
-**Thoughts:**
+**Thoughts:** I still have a lot to learn and play with when it comes to CSS and other languages when it comes to front end web development. 
 
 **Link(s) to work:**
+https://codepen.io/TeaSama/pen/oeZQGa
 
 **Biggest Unanswered Question:**
 

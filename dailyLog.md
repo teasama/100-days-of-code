@@ -54,7 +54,7 @@ https://www.sololearn.com/Profile/5247204
 **Link(s) to work:**
 https://codepen.io/TeaSama/pen/oeZQGa
 
-**Biggest Unanswered Question:**
+**Biggest Unanswered Question:** How to work my nav bar exactly. 
 
 ### Day :
 

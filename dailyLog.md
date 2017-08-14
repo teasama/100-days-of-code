@@ -56,6 +56,106 @@ https://codepen.io/TeaSama/pen/oeZQGa
 
 **Biggest Unanswered Question:** How to work my nav bar exactly. 
 
+### Day 6: August 13
+
+**Today's Progress**: Did a couple lessons on freecodecamp. Started working a little bit with jQuery. 
+
+**Thoughts:** I wasn't really feeling like working on my project exactly but decided that I should copy my exsisting code onto my tablet to work out any questions I might have about what I am doing. AND I will also have my work on mobile when I'm out and about. Why copy it? It's simply how I learn and I really just want to have a solid basics knowledge.
+
+**Link(s) to work:** Don't have one today. 
+
+**Biggest Unanswered Question:** How do I test the code I am writing on my tablet? 
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Biggest Unanswered Question:**
+
 ### Day :
 
 **Today's Progress**:
